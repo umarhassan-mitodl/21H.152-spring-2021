@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 5f1600ca-5181-40cf-9b8b-ed3d3516ff8d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 80d3a8c3-f7de-4ec7-a157-64503a0a1246
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6acb4ac2-b054-4510-b0df-d7eb054134fe
+  name: Readings and Videos
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 4cce8106-cfec-4d37-9104-09ea6b998c79
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: c0cb6616-251a-445d-bc82-9e1910d31e38
+  name: 'Annotation Assignment #1'
+  pageRef: /pages/annotation-assignment-1
+  parent: 4cce8106-cfec-4d37-9104-09ea6b998c79
+  weight: 10
+- identifier: b58328ad-7f95-4939-985e-40d5b76b48d0
+  name: 'Annotation Assignment #2'
+  pageRef: /pages/annotation-assignment-2
+  parent: 4cce8106-cfec-4d37-9104-09ea6b998c79
+  weight: 20
+- identifier: c275ffff-d7c4-44b6-9d26-6a364feb640a
+  name: Film, Novel, or Book Report
+  pageRef: /pages/film-novel-or-book-report
+  parent: 4cce8106-cfec-4d37-9104-09ea6b998c79
+  weight: 30
+- identifier: 00cb04ad-ed6f-4ad0-9463-0030d8a2d42d
+  name: Historical Timeline Final Project
+  pageRef: /pages/historical-timeline-final-project
+  parent: 4cce8106-cfec-4d37-9104-09ea6b998c79
+  weight: 40
