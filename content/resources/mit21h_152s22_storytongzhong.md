@@ -5,6 +5,8 @@ draft: false
 file: /courses/21h-152-modern-china-spring-2022/mit21h_152s22_storytongzhong.pdf
 file_size: 83944
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

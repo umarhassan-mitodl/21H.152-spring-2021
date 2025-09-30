@@ -33,6 +33,7 @@
     "website": "modern-china"
   },
   "course_title": "Modern China",
+  "hide_download": true,
   "course_description": "This course discusses China's emergence as a global power, which has arisen out of two centuries of significant change. It explores those transformations from 1800 to the present by examining the advent of foreign imperialism in the nineteenth century, the collapse of the last imperial dynasty in 1911, China's debilitating war against Japan, the communist revolution, and the tumultuous history of the People's Republic of China from 1949. Also, this course addresses the historical transformations that have shaped contemporary Chinese politics, ethnicity, gender, environment, economics, and international relations.",
   "department_numbers": [
     "21H"
@@ -43,6 +44,7 @@
     "content": "734e5770-2c4e-4d01-81d4-5d30658e13ea",
     "website": "modern-china"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments with Examples",
     "Activity Assignments with Examples",

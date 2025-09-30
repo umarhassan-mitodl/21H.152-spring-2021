@@ -5,11 +5,11 @@ draft: false
 title: Historical Timeline Final Project
 uid: 00cb04ad-ed6f-4ad0-9463-0030d8a2d42d
 ---
-Proceed to the {{% resource_link "1341c314-f2b4-4529-86fa-899e7d5523e7" "Timeline" %}} website. 
+Proceed to the [Timeline](https://timeline.knightlab.com/) website. 
 
 Create a timeline of a trend or topic in modern China with at least 10–15 key moments. 
 
-Consider the following example: {{% resource_link "28ec8fa0-ca86-43d7-9030-1488b71501e4" "Whitney Houston 1963–2012" %}}. 
+Consider the following example: [Whitney Houston 1963–2012](https://timeline.knightlab.com/examples/houston/index.html). 
 
 Feel free to get creative. You could choose topics such as "The Life of Deng Xiaoping," "A Timeline of Women's Rights in Modern China," "The Soong Sisters," "Student Movements in Modern China," "Famous Engineers in Modern China," "A Timeline of Chinese Cinema," "Chinese Popular Music," "Family Planning in the PRC," "The Household Registration System (hukou)," "Chinese Students Abroad," "Overseas Chinese in Southeast Asia (or the Americas, etc.)" or basically anything that you find particularly compelling! 
 
@@ -32,4 +32,4 @@ Please remember that Wikipedia can be a nice starting point to sketch out a subj
 
 **Student Example**
 
-"{{% resource_link "bb6349a5-36a9-4d34-a672-cbeb5b0b725f" "A History of Chinese Revolutions" %}}." (Courtesy of Margaret Yu.)
+"[A History of Chinese Revolutions](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NE6zeo-rJ51_s2RuYnVd79aSLlMMeeFoaEPW75Kz74M&font=Default&lang=en&initial_zoom=2&height=650)." (Courtesy of Margaret Yu.)
