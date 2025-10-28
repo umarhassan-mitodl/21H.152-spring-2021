@@ -25,15 +25,15 @@ China Today
 
 *Primary Source Readings*
 
-[Political Map of China](https://www.mapsofworld.com/china/china-political-map.html), Maps of World.
+{{% resource_link "47311287-e482-4f5c-aa3f-c14f64a293ca" "Political Map of China" %}}, Maps of World.
 
-[China](https://en-us.topographic-map.com/maps/tlzb/China/), topographic-map.com.
+{{% resource_link "791f72cb-104a-41ad-8a7f-02bf95b682c9" "China" %}}, topographic-map.com.
 
-[China linguistic map](https://commons.wikimedia.org/wiki/File:China_linguistic_map.jpg), Wikimedia Commons.
+{{% resource_link "19fbac89-b12a-4f3f-bb75-edba866efb12" "China linguistic map" %}}, Wikimedia Commons.
 
 *Required Secondary Source Readings*
 
-[Chinese Pronunciation Guide for Beginners](http://www.meetmandarin.com/articles/chinese-pronunciation-guide.html), meetMandarin.
+{{% resource_link "55acba0c-d454-47e0-a373-ce47744b9ed1" "Chinese Pronunciation Guide for Beginners" %}}, meetMandarin.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -47,9 +47,9 @@ Traditional China
 
 *Optional*
 
-Chen, Hongmou. [“On the Duties of an Official.” (PDF)](http://afe.easia.columbia.edu/ps/cup/chen_hongmou_duties.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Chen, Hongmou. {{% resource_link "b1cbdb81-6353-41f3-af82-e466ecc2e339" "“On the Duties of an Official.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
-Lü, Kun. [“Preface to Models for the Inner Quarters.” (PDF)](http://afe.easia.columbia.edu/ps/cup/lukun_inner_quarters.pdf?menu=1&s=7) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Lü, Kun. {{% resource_link "8a06a63c-26f3-4e74-9570-b61d8b91873e" "“Preface to Models for the Inner Quarters.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -81,7 +81,7 @@ The Tribute System and Imperial Diplomacy
 
 \[S\] pp. 115–35.
 
-Harrison, Henrietta. “[The Qianlong Emperor’s Letter to George III and the Early-Twentieth-Century Origins of Ideas about Traditional China’s Foreign Relations](https://academic.oup.com/ahr/article/122/3/680/3862790?login=true).” *American Historical Review* 122, no. 3 (2017): 680–701.
+Harrison, Henrietta. “{{% resource_link "b71ecec8-5b4d-4ec0-bac2-3cd352f89be7" "The Qianlong Emperor’s Letter to George III and the Early-Twentieth-Century Origins of Ideas about Traditional China’s Foreign Relations" %}}.” *American Historical Review* 122, no. 3 (2017): 680–701.
 
 Mosca, Matthew W. “A Wealth of Indias: India in Qing Geographic Practice, 1644–1755.” Chapter 1 in *From Frontier Policy to Foreign Policy*: *The Question of India and the Transformation of Geopolitics in Qing China*. Stanford University Press, 2015. ISBN: ‎9780804797290.
 
@@ -97,7 +97,7 @@ The Opium Wars
 
 Jones, William C., translator, with the assistance of Tianquan Cheng and Yongling Jiang. *The Great Qing Code*. Oxford University Press, 1994. ISBN: ‎9780198257943.
 
-[“Commissioner Lin’s Letter.” (PDF)](http://www.columbia.edu/cu/weai/exeas/resources/pdf/opium-commissioner-lin.pdf)
+{{% resource_link "46b15a3d-91c1-4b05-aac7-c42c4c33702b" "“Commissioner Lin’s Letter.” (PDF)" %}}
 
 *Required Secondary Source Readings*
 
@@ -113,15 +113,15 @@ The Taiping Rebellion
 
 \[C\] pp. 111–33.
 
-Li, Lillian M. “[The Garden of Perfect Brightness-1: The Yuanmingyuan as Imperial Paradise (1700–1860)](https://visualizingcultures.mit.edu/garden_perfect_brightness/ymy1_essay01.html).” MIT Visualizing Cultures.
+Li, Lillian M. “{{% resource_link "1b7e48a4-527f-458f-a801-7ee13613fe97" "The Garden of Perfect Brightness-1: The Yuanmingyuan as Imperial Paradise (1700–1860)" %}}.” MIT Visualizing Cultures.
 
-“[Explore the Original Glory of China's Old Summer Palace through VR](https://www.youtube.com/watch?v=VAeVYL3ywYA).” YouTube.
+“{{% resource_link "91fb6310-8ebc-4a15-bfb1-9303ddda15b1" "Explore the Original Glory of China's Old Summer Palace through VR" %}}.” YouTube.
 
 *Optional Primary Source Readings and Visual Sources*
 
-[Excerpts from “The Land System of the Heavenly Kingdom (Tianchao tianmu zhidu): ‘The Taiping Economic Program’.” (PDF)](http://afe.easia.columbia.edu/ps/cup/taiping_economic_pgm.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+{{% resource_link "9b81ab58-11d9-499e-b1a0-4fbd3972490c" "Excerpts from “The Land System of the Heavenly Kingdom (Tianchao tianmu zhidu): ‘The Taiping Economic Program’.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
-[Excerpts from “Ode for Youth”. (PDF)](http://afe.easia.columbia.edu/ps/china/taiping_ode_for_youth.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+{{% resource_link "c6662f16-ff5a-48a9-a2c6-5bcd6607faed" "Excerpts from “Ode for Youth”. (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
 *Required Secondary Source Readings*
 
@@ -129,13 +129,13 @@ Li, Lillian M. “[The Garden of Perfect Brightness-1: The Yuanmingyuan as Imper
 
 *Optional Secondary Source Reading*
 
-Lagerwey, John. “Introduction.” In *China: A Religious State.* Hong Kong University Press, 2010. ISBN: 978988802803. \[Preview with [Google Books](https://www.google.com/books/edition/China/WAOOzQi0dCkC?hl=en&gbpv=1)\]
+Lagerwey, John. “Introduction.” In *China: A Religious State.* Hong Kong University Press, 2010. ISBN: 978988802803. \[Preview with {{% resource_link "0446e4b6-b914-4b80-8213-1e8e87f68efe" "Google Books" %}}\]
 
 *Optional*
 
-Guangxian, Yang. [“I Cannot Do Otherwise (Budeyi).” (PDF)](http://afe.easia.columbia.edu/ps/cup/yang_guangxian_cannot_otherwise.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Guangxian, Yang. {{% resource_link "1f96434d-fabb-48c3-864e-1d22b6ec613b" "“I Cannot Do Otherwise (Budeyi).” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
-[Excerpts from “The Casebook of the County Magistrate Lan Dingyuan: ‘Depraved Religious Sects Deceive People’.” (PDF)](http://afe.easia.columbia.edu/ps/china/depraved_religious_sects.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+{{% resource_link "52ec35e1-37db-457f-b662-9ce25dbb802a" "Excerpts from “The Casebook of the County Magistrate Lan Dingyuan: ‘Depraved Religious Sects Deceive People’.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -153,9 +153,9 @@ Reform and Self-Strengthening
 
 *Optional Primary Source Readings*
 
-Feng, Guifen. [“Excerpts from ‘On the Adoption of Western Learning’.” (PDF)](http://afe.easia.columbia.edu/ps/china/feng_guifen_western_learning.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Feng, Guifen. {{% resource_link "8f0535dc-5810-431b-b874-f63dfd0445e5" "“Excerpts from ‘On the Adoption of Western Learning’.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
-Yan, Fu. [“Excerpts from ‘Learning from the West’.” (PDF)](http://afe.easia.columbia.edu/ps/china/yanfu_learning_west.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Yan, Fu. {{% resource_link "78511b90-1ac0-45ed-a657-cbfa17ac101e" "“Excerpts from ‘Learning from the West’.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -171,9 +171,9 @@ The Boxer Rebellion
 
 \[S\] pp. 208–33.
 
-[China Comes to MIT](http://chinacomestomit.org/student-profiles-2). (MIT’s first Chinese students.)
+{{% resource_link "72485591-d9dd-4c49-a41b-c6b7eb483c2d" "China Comes to MIT" %}}. (MIT’s first Chinese students.)
 
-Liang, Qichao. [“Excerpts from ‘Observations on a Trip to America’.” (PDF)](http://afe.easia.columbia.edu/ps/china/liang_qichao_observations.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Liang, Qichao. {{% resource_link "6b9d391c-9154-400c-8ced-3611122606f2" "“Excerpts from ‘Observations on a Trip to America’.” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -217,13 +217,13 @@ Nationalists and Communists
 
 \[S\] Part III: Envisioning State and Society, pp. 301–48.
 
-Lu Xun. [*The True Story of Ah-Q*](https://www.marxists.org/archive/lu-xun/1921/12/ah-q/index.htm). Foreign Languages Press, 1960. Marxists.org.
+Lu Xun. {{% resource_link "455f0697-b59c-4477-8c8b-93188038ffe8" "*The True Story of Ah-Q*" %}}. Foreign Languages Press, 1960. Marxists.org.
 
-Chiang, Kai-Shek. [“‘Essentials of the New Life Movement’ (Speech, 1934).” (PDF)](http://afe.easia.columbia.edu/ps/cup/chiang_kaishek_new_life.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Chiang, Kai-Shek. {{% resource_link "b3646751-152f-46c3-a574-c9f9458bca5b" "“‘Essentials of the New Life Movement’ (Speech, 1934).” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
-Mao, Zedong. [“Report on the Investigation of the Peasant Movement in Hunan (March 1927).” (PDF)](http://afe.easia.columbia.edu/ps/china/mao_peasant.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Mao, Zedong. {{% resource_link "01e97918-6c1a-4ea0-86a3-4d19c5bb5bad" "“Report on the Investigation of the Peasant Movement in Hunan (March 1927).” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
-Liu, Shaoqi. [“How to Be a Good Communist (1939).” (PDF)](http://afe.easia.columbia.edu/ps/china/liu_shaoqi_good_communist.pdf) Asia for Educators, Weatherhead East Asian Institute, Columbia University.
+Liu, Shaoqi. {{% resource_link "377dd095-7b12-4504-b050-2ecb0ccc8320" "“How to Be a Good Communist (1939).” (PDF)" %}} Asia for Educators, Weatherhead East Asian Institute, Columbia University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -233,11 +233,11 @@ World War Two, Part 1
 
 *Optional Primary Source Readings and Visual Sources*
 
-Ambaras, David, and Kate McDonald. “[Bodies and Structures: The Transwar Romance of ‘Japan-China Goodwill’](https://scalar.chass.ncsu.edu/bodies-and-structures/transwar-japan-china-goodwill).” Scalar.
+Ambaras, David, and Kate McDonald. “{{% resource_link "ce6e97bf-9833-4824-be7f-4603b38e58a7" "Bodies and Structures: The Transwar Romance of ‘Japan-China Goodwill’" %}}.” Scalar.
 
-Chang, Eileen. *Love in a Fallen City*. Translated by Karen S. Kingsbury. New York Review of Books, 2017. ISBN: 9781681372440. \[Preview with [Google Books](https://www.google.com/books/edition/Love_in_a_Fallen_City/vbCiDgAAQBAJ?hl=en&gbpv=1)\]
+Chang, Eileen. *Love in a Fallen City*. Translated by Karen S. Kingsbury. New York Review of Books, 2017. ISBN: 9781681372440. \[Preview with {{% resource_link "062d3c87-b39d-4fc7-a651-45f237b620d3" "Google Books" %}}\]
 
-“[Shina no yoru (AKA China Night)](https://www.youtube.com/watch?v=XpmtFNMKodM).” YouTube.
+“{{% resource_link "31db0fbc-0821-4fc1-953e-49a5e1b14793" "Shina no yoru (AKA China Night)" %}}.” YouTube.
 
 *Required Secondary Source Reading*
 
@@ -253,19 +253,19 @@ World War Two, Part 2
 
 \[C\] pp. 318–44.
 
-Gersen, Jeannie Suk. “[Seeking the True Story of the Comfort Women](https://www.newyorker.com/culture/annals-of-inquiry/seeking-the-true-story-of-the-comfort-women-j-mark-ramseyer).” *New Yorker*, February 25, 2021.
+Gersen, Jeannie Suk. “{{% resource_link "bd71a0ba-f23a-4340-9c6b-1183285f57ea" "Seeking the True Story of the Comfort Women" %}}.” *New Yorker*, February 25, 2021.
 
-American Historical Association. [*Our Chinese Ally*](https://archive.org/details/OurChineseAlly/page/n1/mode/2up). 1944. Internet Archive.
+American Historical Association. {{% resource_link "c8eca7ee-6b77-466b-91f0-540e67fb61a8" "*Our Chinese Ally*" %}}. 1944. Internet Archive.
 
-“[The Battle of China](https://www.youtube.com/watch?v=DMWQ32vwMxI).” YouTube.
+“{{% resource_link "b30c8685-0b56-4d74-a246-e4a64bf5999f" "The Battle of China" %}}.” YouTube.
 
-“[The Last Emperor of China, Puyi, as the Witness in the Tokyo Trials](https://www.youtube.com/watch?v=N0XQfSVDeds).” YouTube.
+“{{% resource_link "5aa0caee-5921-44d3-a7b1-b947f6bceca1" "The Last Emperor of China, Puyi, as the Witness in the Tokyo Trials" %}}.” YouTube.
 
-“[Swords Drawn, Ep. 1 clip](https://www.youtube.com/watch?v=06nd8QprI8o).” YouTube.
+“{{% resource_link "5680dedf-53ce-4f95-a7f3-aa4e999e67c4" "Swords Drawn, Ep. 1 clip" %}}.” YouTube.
 
-“[The Eight Hundred (official trailer)](https://www.youtube.com/watch?v=CBt8WtcG8Dw).” YouTube.
+“{{% resource_link "153ecb41-9a48-43e5-8d0d-d9e10ee50f81" "The Eight Hundred (official trailer)" %}}.” YouTube.
 
-[The Fallen of World War II](http://www.fallen.io/ww2/).
+{{% resource_link "b6f9cf5d-72c6-45ac-9d09-84ad521f1a75" "The Fallen of World War II" %}}.
 
 *Required Secondary Source Reading*
 
@@ -285,11 +285,11 @@ The Communist Revolution
 
 \[S\] Part IV: War and Revolution, pp. 433–57.
 
-Esherick, Joseph W. “[Ten Theses on the Chinese Revolution](https://www.jstor.org/stable/189282?seq=1).” *Modern China* 21, no. 1 (1995): 45–76.
+Esherick, Joseph W. “{{% resource_link "4d3cf694-3fbc-4d9e-b6f5-cf4488a3c793" "Ten Theses on the Chinese Revolution" %}}.” *Modern China* 21, no. 1 (1995): 45–76.
 
-Arranz, Adolfo. “[How the Forbidden City’s Treasures Ended Up Divided between Beijing and Taipei](https://www.scmp.com/news/china/article/2184268/how-forbidden-citys-treasures-ended-divided-between-beijing-and-taipei),” *South China Morning Post*, February 3, 2019.
+Arranz, Adolfo. “{{% resource_link "7ee23781-33ee-45ff-bf44-30951460b34f" "How the Forbidden City’s Treasures Ended Up Divided between Beijing and Taipei" %}},” *South China Morning Post*, February 3, 2019.
 
-Skinner, G. William. *Rural China on the Eve of Revolution: Sichuan Fieldnotes, 1949–1950*. Edited by Stevan Harrell and William Lavely. University of Washington Press, 2016, pp. vii–xii*,* 3–40, 191–211, and 219–32. ISBN: ‎9780295999418. \[Preview with [Google Books](https://www.google.com/books/edition/Rural_China_on_the_Eve_of_Revolution/xo4ODgAAQBAJ?hl=en&gbpv=1)\]
+Skinner, G. William. *Rural China on the Eve of Revolution: Sichuan Fieldnotes, 1949–1950*. Edited by Stevan Harrell and William Lavely. University of Washington Press, 2016, pp. vii–xii*,* 3–40, 191–211, and 219–32. ISBN: ‎9780295999418. \[Preview with {{% resource_link "b64fac83-7baa-4737-b6e0-e42019d3dbe3" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -319,13 +319,13 @@ The Great Leap Forward
 
 \[S\] Part IV: War and Revolution, pp. 493–528.
 
-Wang, Ning. “[The Making of an Intellectual Hero: Chinese Narratives of Qian Xuesen](https://www.jstor.org/stable/41305223?seq=1).” *China Quarterly* 206 (2011): 352–71.
+Wang, Ning. “{{% resource_link "5e1b0a31-19f4-490a-84f4-e1f603a00033" "The Making of an Intellectual Hero: Chinese Narratives of Qian Xuesen" %}}.” *China Quarterly* 206 (2011): 352–71.
 
-“[Record of Talks between I.V. Stalin and Chairman of the Central People’s Government of the Perople’s Republic of China Mao Zedong (January 22, 1950)](https://digitalarchive.wilsoncenter.org/document/111245).” Digital Archive, Wilson Center.
+“{{% resource_link "a4cb33bd-629f-4242-9e41-47a9c1fe48f3" "Record of Talks between I.V. Stalin and Chairman of the Central People’s Government of the Perople’s Republic of China Mao Zedong (January 22, 1950)" %}}.” Digital Archive, Wilson Center.
 
-“[Minutes of Chairman Mao Zedong’s First Meeting with Nehru (October 19, 1954)](https://digitalarchive.wilsoncenter.org/document/117825).” Digital Archive, Wilson Center.
+“{{% resource_link "1d95fe3d-21f4-4379-8ecd-5ba5fd1f528a" "Minutes of Chairman Mao Zedong’s First Meeting with Nehru (October 19, 1954)" %}}.” Digital Archive, Wilson Center.
 
-“[Discussion between N.S. Khrushchev and Mao Zedong (October 2, 1959)](https://digitalarchive.wilsoncenter.org/document/112088).” Digital Archive, Wilson Center.
+“{{% resource_link "2920ecfa-1679-4934-8a0e-0745c4bb9ec2" "Discussion between N.S. Khrushchev and Mao Zedong (October 2, 1959)" %}}.” Digital Archive, Wilson Center.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -337,25 +337,25 @@ The Cultural Revolution, Part 1
 
 \[C\] pp. 438–59.
 
-Hoberman, J. “[Forgotten Masterpiece: Antonioni’s Travelogue from China](https://www.nytimes.com/2017/12/28/movies/chung-kuo-cina-antonioni-moma-forgotten-masterpiece-a-china-travelogue.html),” *New York Times*, December 28, 2017.
+Hoberman, J. “{{% resource_link "67fed6f7-dfc9-4019-b1fe-edf5bd77494a" "Forgotten Masterpiece: Antonioni’s Travelogue from China" %}},” *New York Times*, December 28, 2017.
 
 *Quotations from Chairman Mao Tse-tung Set to Music*. Foreign Languages Press, 1968.
 
-Cook, Alexander C., ed. “Preface,” and Chapters 1–3 in *Mao’s Little Red Book: A Global History*. Cambridge University Press, 2014. ISBN: ‎9781107665644. \[Preview with [Google Books](https://www.google.com/books/edition/Mao_s_Little_Red_Book/ttjSAgAAQBAJ?hl=en&gbpv=1)\]
+Cook, Alexander C., ed. “Preface,” and Chapters 1–3 in *Mao’s Little Red Book: A Global History*. Cambridge University Press, 2014. ISBN: ‎9781107665644. \[Preview with {{% resource_link "e8f9cbc7-991d-492a-aa1e-e9a8bdfc9e49" "Google Books" %}}\]
 
-“[Michelangelo Antonioni—Chung Kuo—Cina, Part 1](https://www.youtube.com/watch?v=Z9tAd_-2AoM).” YouTube.
+“{{% resource_link "584c9f71-e4bc-4553-8453-3481186e2b38" "Michelangelo Antonioni—Chung Kuo—Cina, Part 1" %}}.” YouTube.
 
-“[The Red Detachment of Women—Live in Shanghai](https://www.youtube.com/watch?v=DpW4l8lgw0A).” YouTube.
+“{{% resource_link "6d8f89dd-cb6f-43d8-8134-23e004cd48eb" "The Red Detachment of Women—Live in Shanghai" %}}.” YouTube.
 
 *Malcolm X on China and Mao Zedong:*
 
-“[Malcolm X: Struggle for Freedom, Part 4 of 4](https://www.youtube.com/watch?v=ZQFPGIo91eE).” YouTube.
+“{{% resource_link "2e1d8915-fcd4-4410-af8d-a48152d09f59" "Malcolm X: Struggle for Freedom, Part 4 of 4" %}}.” YouTube.
 
-“[This Photo Triggered China’s Cultural Revolution](https://www.youtube.com/watch?v=kXByOrRrO7c).” YouTube.
+“{{% resource_link "68eef578-1455-4520-abb6-baa763a53a89" "This Photo Triggered China’s Cultural Revolution" %}}.” YouTube.
 
-“[Mao’s Red Guards](https://www.youtube.com/watch?v=gaz8sVaK8s4).” YouTube.
+“{{% resource_link "b6b45560-ecb9-4483-a738-4c178fe2f377" "Mao’s Red Guards" %}}.” YouTube.
 
-[The TAZARA Railway](https://chineseposters.net/themes/tazara-railway). ChinesePosters.net.
+{{% resource_link "7d81d0cd-85a7-43c8-8ae2-a75a4c33f1cc" "The TAZARA Railway" %}}. ChinesePosters.net.
 
 *Required Secondary Source Readings*
 
@@ -373,7 +373,7 @@ The Cultural Revolution, Part 2
 
 Honig, Emily, and Xiaojian Zhao. “Things Fall Apart.” Chapter 6 in *Across the Great Divide: The Sent-Down Youth Movement in Mao’s China, 1968–1980*. Cambridge University Press, 2019. ISBN: ‎ 9781108712491.
 
-“[Nixon in China](https://www.youtube.com/watch?v=4cfsI4ZjTbU).” YouTube.
+“{{% resource_link "c20a4fe3-fd12-419a-aed1-5aa43aa710fb" "Nixon in China" %}}.” YouTube.
 
 *Required Secondary Source Readings*
 
@@ -405,7 +405,7 @@ Taiwan and Overseas Sinophone Communities
 
 Brown, Kerry, and Kalley Wu Tzu-hui. “Contested Histories: From the Ming to Today.” Chapter 1 in *The Trouble with Taiwan: History, the United States and a Rising China*. Zed Books, 2021. ISBN: ‎9781786995216.
 
-“[Tug of War: The Story of Taiwan](https://www.youtube.com/watch?v=LbPPedw_KhY).” YouTube.
+“{{% resource_link "ddcd37d6-32fe-4c02-accf-2925212e0c27" "Tug of War: The Story of Taiwan" %}}.” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -417,9 +417,9 @@ From Family Planning to Protests to Deng’s Southern Tour
 
 \[C\] pp. 520–65.
 
-“[It is Necessary to Take a Clear-Cut Stand Against Disturbances](http://www.tsquare.tv/chronology/April26ed.html),” *Renmin ribao,* April 26, 1989.
+“{{% resource_link "58a90713-1b51-4a63-b7d2-7483b2ec8de2" "It is Necessary to Take a Clear-Cut Stand Against Disturbances" %}},” *Renmin ribao,* April 26, 1989.
 
-[TIME’s Annual Journey: 1989](http://content.time.com/time/specials/packages/article/0,28804,1902809_1902810_1905185,00.html).
+{{% resource_link "1fbc3479-d84d-42be-ae6f-382f75a8dd5c" "TIME’s Annual Journey: 1989" %}}.
 
 *Required Secondary Source Readings*
 
@@ -435,7 +435,7 @@ Economic Growth and Development in Mainland China, 1992–Present
 
 \[S\] Part V: Re-entering the World, pp. 666–75.
 
-Fukuyama, Francis. “Empires of Resentment, Empires of Deference.” Chapter 22 in *The End of History and the Last Man.* Free Press, 2006. ISBN: ‎9780743284554. \[Preview with [Google Books](https://www.google.com/books/edition/End_of_History_and_the_Last_Man/4HQjTGWNfhwC?hl=en&gbpv=1)\]
+Fukuyama, Francis. “Empires of Resentment, Empires of Deference.” Chapter 22 in *The End of History and the Last Man.* Free Press, 2006. ISBN: ‎9780743284554. \[Preview with {{% resource_link "c26df54c-592c-41ef-af09-a821fd88247f" "Google Books" %}}\]
 
 Ang, Yuen Yuen. “Balancing Variety and Uniformity.” Chapter 3 in *How China Escaped the Poverty Trap.* Cornell University Press, 2022. ISBN: ‎ 9781501764561.
 
@@ -447,17 +447,17 @@ Hong Kong, Singapore, and Chinese Identity
 
 *Primary Source Readings and Visual Sources*
 
-Barr, Michael D. Selections from *Singapore: A Modern History*. Bloomsbury Academic, 2020. ISBN: ‎9781350185661. \[Preview with [Google Books](https://www.google.com/books/edition/Singapore/SxKEDwAAQBAJ?hl=en&gbpv=1)\]
+Barr, Michael D. Selections from *Singapore: A Modern History*. Bloomsbury Academic, 2020. ISBN: ‎9781350185661. \[Preview with {{% resource_link "fac0e96a-cc24-4099-a4b6-9704693c6115" "Google Books" %}}\]
 
-[“The Constitution of the People’s Republic of China.” (PDF – 2MB)](https://www.basiclaw.gov.hk/filemanager/content/en/files/basiclawtext/basiclaw_full_text.pdf) May 2021 edition.
+{{% resource_link "0e644f2b-f9c5-4583-bdec-a18f7c715084" "“The Constitution of the People’s Republic of China.” (PDF – 2MB)" %}} May 2021 edition.
 
-Dapiran, Antony. *City of Protest: A Recent History of Dissent in Hong Kong*. Penguin Australia, 2017. ISBN: ‎ 9780734399625. \[Preview with [Google Books](https://www.google.com/books/edition/City_of_Protest_A_Recent_History_of_Diss/X7UpDwAAQBAJ?hl=en&gbpv=1)\]
+Dapiran, Antony. *City of Protest: A Recent History of Dissent in Hong Kong*. Penguin Australia, 2017. ISBN: ‎ 9780734399625. \[Preview with {{% resource_link "639bc54e-6967-491c-96a3-8c8a6a10e5cd" "Google Books" %}}\]
 
-“[How Singapore Built a Stable Society](https://www.youtube.com/watch?v=XwMnLpfSpgw).” YouTube.
+“{{% resource_link "24b7a3ee-b9d5-40f2-874e-abe041e9495f" "How Singapore Built a Stable Society" %}}.” YouTube.
 
-“[The Hong Kong Story](https://www.youtube.com/watch?v=Kk6gfAtwZ7Q).” YouTube.
+“{{% resource_link "b99affd3-0305-4bcd-81a6-31d27e9620f0" "The Hong Kong Story" %}}.” YouTube.
 
-“[Hong Kong profile – Timeline](https://www.bbc.com/news/world-asia-pacific-16526765).” June 24, 2019. BBC.
+“{{% resource_link "967931a4-dc8f-4156-8e77-e0dcba152a19" "Hong Kong profile – Timeline" %}}.” June 24, 2019. BBC.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -467,12 +467,12 @@ China in the Xi Jinping Era
 
 *Primary Source Readings and Visual Sources*
 
-Ang, Yuen Yuen. “Introduction: China’s Gilded Age” and “Rethinking Nine Big Questions.” Chapters 1 and 7 in *China’s Gilded Age: The Paradox of Economic Boom and Vast Corruption.* Cambridge University Press, 2021. ISBN: ‎9781108745956. \[Preview with [Google Books](https://www.google.com/books/edition/China_s_Gilded_Age/J13bDwAAQBAJ?hl=en&gbpv=1)\].
+Ang, Yuen Yuen. “Introduction: China’s Gilded Age” and “Rethinking Nine Big Questions.” Chapters 1 and 7 in *China’s Gilded Age: The Paradox of Economic Boom and Vast Corruption.* Cambridge University Press, 2021. ISBN: ‎9781108745956. \[Preview with {{% resource_link "945859d8-7df0-4bdd-abff-f68df127f872" "Google Books" %}}\].
 
 “INFOGRAPHIC: How the CCP Rules, a Guide to China’s Leaders of Party and State before the 19th Party Congress.”
 
-[The Committee](https://macropolo.org/digital-projects/the-committee/). Macro Polo.(Database of the Central Committee of the Chinese Communist Party)
+{{% resource_link "d5260622-0e22-420a-ac25-f222b4955bb5" "The Committee" %}}. Macro Polo.(Database of the Central Committee of the Chinese Communist Party)
 
-“[How the Chinese Government Works](https://multimedia.scmp.com/widgets/china/govt-explainer/index.html),” *South China Morning Post.*
+“{{% resource_link "c00d4287-f6f7-4080-bb8b-4d4f4503f0e3" "How the Chinese Government Works" %}},” *South China Morning Post.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
